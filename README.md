@@ -11,9 +11,9 @@ Make sure that all the gems are installed
 > gem install bundler
 > bundle install
 
-Now you can either run the script to see if if it's your turn:
+Now you can run the script to see if if it's your turn:
 
-> ruby itsyourgo.rb username password
+> ruby itsyourgo.rb username password &
 
 Obviously you need to change username and password
 
